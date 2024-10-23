@@ -1025,3 +1025,11 @@ users:
   - https://gitee.com/modelers/gitea-hook-delivery
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
+
+- name: 'Zhihang Deng'
+  gitee_id: 'zhihang161013'
+  github_id: 'zhihang161013'
+  repos:
+  - https://github.com/zhihang161013/opea-openeuler
+  - https://gitee.com/openEuler/openeuler-docker-images
+  - https://gitee.com/openeuler/eulerpublisher
