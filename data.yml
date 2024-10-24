@@ -696,6 +696,8 @@ users:
   repos:
   - https://gitee.com/opensourceway/EasySoftwareInput
   - https://gitee.com/opensourceway/EasySoftwareService
+  - https://github.com/opensourceways/EasySoftwareInput
+  - https://github.com/opensourceways/easysoftware-autoupgrade
 
 - name: 'LiYanghang'
   gitee_id: 'LiYanghang00'
