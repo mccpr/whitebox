@@ -1027,3 +1027,10 @@ users:
   - https://gitee.com/modelers/gitea-hook-delivery
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
+
+- name: 'Jiahao Chen'
+  gitee_id: 'jiahaochen666'
+  github_id: 'jiahaochen666'
+  repos:
+  - https://gitee.com/mindspore/mindspore
+  - https://github.com/mindspore-lab/mindocr
