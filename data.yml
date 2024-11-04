@@ -861,6 +861,8 @@ users:
     - https://github.com/openmerlin/flexcompute-server
     - https://github.com/openmerlin/flexcompute-sdk
     - https://github.com/openmerlin/openmind-resource-template
+    - https://gitee.com/modelers/flexcompute-sdk
+    - https://gitee.com/modelers/flexcompute-server
 
 - name: 'Xinyue Zhang'
   gitee_id: 'hfadzxy'
