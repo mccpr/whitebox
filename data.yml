@@ -696,6 +696,8 @@ users:
   repos:
   - https://gitee.com/opensourceway/EasySoftwareInput
   - https://gitee.com/opensourceway/EasySoftwareService
+  - https://github.com/opensourceways/EasySoftwareInput
+  - https://github.com/opensourceways/easysoftware-autoupgrade
 
 - name: 'LiYanghang'
   gitee_id: 'LiYanghang00'
@@ -1026,10 +1028,19 @@ users:
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
 
+
 - name: 'Zhihang Deng'
   gitee_id: 'zhihang161013'
   github_id: 'zhihang161013'
   repos:
   - https://github.com/zhihang161013/opea-openeuler
-  - https://gitee.com/openEuler/openeuler-docker-images
+  - https://gitee.com/openeuler/openeuler-docker-images
   - https://gitee.com/openeuler/eulerpublisher
+  
+- name: 'Jiahao Chen'
+  gitee_id: 'jiahaochen666'
+  github_id: 'jiahaochen666'
+  repos:
+  - https://gitee.com/mindspore/mindspore
+  - https://github.com/mindspore-lab/mindocr
+
