@@ -39,10 +39,10 @@ users:
   gitee_id: 'zhongjun2'
   github_id: 'zhongjun2'
   repos:
-  - https://gitee.com/opensourceway/om-collections
+  - https://github.com/opensourceways/om-collections
   - https://gitee.com/opensourceway/om-webserver
   - https://github.com/opensourceways/infra-common
-  - https://gitee.com/opensourceway/om-kafka
+  - https://github.com/opensourceways/om-kafka
   - https://gitee.com/opensourceway/om-docs
   - https://gitee.com/opensourceway/om-deployment
   - https://gitee.com/opensourceway/om-JenkinsLog
