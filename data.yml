@@ -39,10 +39,10 @@ users:
   gitee_id: 'zhongjun2'
   github_id: 'zhongjun2'
   repos:
-  - https://gitee.com/opensourceway/om-collections
+  - https://github.com/opensourceways/om-collections
   - https://gitee.com/opensourceway/om-webserver
   - https://github.com/opensourceways/infra-common
-  - https://gitee.com/opensourceway/om-kafka
+  - https://github.com/opensourceways/om-kafka
   - https://gitee.com/opensourceway/om-docs
   - https://gitee.com/opensourceway/om-deployment
   - https://gitee.com/opensourceway/om-JenkinsLog
@@ -1031,9 +1031,19 @@ users:
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
 
+
+- name: 'Zhihang Deng'
+  gitee_id: 'zhihang161013'
+  github_id: 'zhihang161013'
+  repos:
+  - https://github.com/zhihang161013/opea-openeuler
+  - https://gitee.com/openeuler/openeuler-docker-images
+  - https://gitee.com/openeuler/eulerpublisher
+  
 - name: 'Jiahao Chen'
   gitee_id: 'jiahaochen666'
   github_id: 'jiahaochen666'
   repos:
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
+
