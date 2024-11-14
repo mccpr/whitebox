@@ -877,6 +877,9 @@ users:
   - https://github.com/openmerlin/image-build-tool
   - https://github.com/openmerlin/space-k8s-operator
   - https://github.com/openmerlin/space-moderation-proxy
+  - https://gitee.com/modelers/space-server
+  - https://gitee.com/modelers/flexcompute-server
+  - https://gitee.com/modelers/space-k8s-operator
 
 - name: 'Yu Liu'
   gitee_id: 'liuyu18801113053'
