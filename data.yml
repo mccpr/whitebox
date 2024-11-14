@@ -816,13 +816,16 @@ users:
   - https://github.com/opensourceways/reproducible-backend
 
 - name: 'Jiaheng Song'
-  gitee_id: 'MaskerPRC'
+  gitee_id: 'martinissong'
   github_id: 'MaskerPRC'
   repos:
   - https://github.com/openmerlin/space-server-monitor
   - https://github.com/openmerlin/space-server
   - https://github.com/openmerlin/image-build-tool
   - https://github.com/openmerlin/space-k8s-operator
+  - https://gitee.com/modelers/space-server
+  - https://gitee.com/modelers/flexcompute-server
+  - https://gitee.com/modelers/space-k8s-operator
 
 - name: 'Jixiang Li'
   gitee_id: 'G-Sacker'
