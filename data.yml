@@ -852,6 +852,10 @@ users:
     - https://github.com/openmerlin/space-k8s-operator
     - https://github.com/openmerlin/dockerfile
     - https://github.com/openmerlin/openmind-resource-template
+    - https://gitee.com/modelers/space-server
+    - https://gitee.com/modelers/openmind-resource-template
+    - https://gitee.com/modelers/flexcompute-server
+    - https://gitee.com/modelers/flexcompute-sdk
 
 - name: "Ming Cui"
   gitee_id: "mccpr"
