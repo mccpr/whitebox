@@ -904,11 +904,17 @@ users:
   - https://github.com/Open-Infra-Ops/openApiTest
 
 - name: 'Li Wang'
-  gitee_id: 'wl'
+  gitee_id: 'Potabk'
   github_id: 'Potabk'
   repos:
     - https://github.com/cosdt/npu-support-helper
     - https://github.com/openmerlin/space-server
+    - https://gitee.com/modelers/space-server
+    - https://gitee.com/modelers/flexcompute-server
+    - https://gitee.com/modelers/space-k8s-operator
+    - https://gitee.com/modelers/flexcompute-sdk
+    
+
 
 - name: 'Ziqi Hong'
   gitee_id: 'candyhong'
