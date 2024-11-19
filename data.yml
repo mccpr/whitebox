@@ -871,6 +871,7 @@ users:
     - https://gitee.com/modelers/flexcompute-sdk
     - https://gitee.com/modelers/flexcompute-server
     - https://github.com/opensourceways/ai-proxy
+    - https://github.com/opensourceways/infraAIService
 
 - name: 'Xinyue Zhang'
   gitee_id: 'hfadzxy'
