@@ -88,7 +88,7 @@ users:
   - https://github.com/openmerlin/merlin-server
   - https://github.com/openmerlin/merlin-sdk
   - https://github.com/openmerlin/merlin-message-server
-  
+
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
   github_id: 'zengchen1024'
@@ -103,7 +103,7 @@ users:
   - https://github.com/opensourceways/app-cla-server
   - https://github.com/opensourceways/yabot
   - https://github.com/opensourceways/infra-mindspore
-  - https://github.com/opensourceways/robot-gitee-review-trigger 
+  - https://github.com/opensourceways/robot-gitee-review-trigger
   - https://github.com/opensourceways/repo-owners-cache
   - https://github.com/opensourceways/go-gitee
   - https://github.com/opensourceways/community-robot-lib
@@ -662,7 +662,7 @@ users:
   - https://github.com/AUTOMATIC1111/stable-diffusion-webui
   - https://github.com/kornia/kornia
   - https://github.com/hipudding/llama.cpp
-  
+
 - name: 'hongrongxuan'
   gitee_id: 'barbo'
   github_id: ''
@@ -672,11 +672,11 @@ users:
 - name: 'lishutian'
   gitee_id: 'li_zt'
   github_id: ''
-  repos_all_branches:
+  repos:
   - https://gitee.com/openharmony/graphic_graphic_2d
   - https://gitee.com/openharmony/interface_sdk_c
   - https://gitee.com/openharmony/arkui_ace_engine
-  
+
 - name: 'Zhonglin Gou'
   gitee_id: 'gi1tee'
   github_id: 'cllouud'
@@ -689,7 +689,7 @@ users:
   github_id: 'jlcoo'
   repos:
   - https://github.com/jlcoo/opengpts
-  
+
 - name: 'Wenjie Zhai'
   gitee_id: 'zwjsec'
   github_id: 'ZWJason'
@@ -808,7 +808,7 @@ users:
   github_id: 'dabukaidehez'
   repos:
   - https://github.com/opensourceways/reproducible-website
-  
+
 - name: 'Tao Chen'
   gitee_id: ''
   github_id: 'codechentao'
@@ -816,13 +816,16 @@ users:
   - https://github.com/opensourceways/reproducible-backend
 
 - name: 'Jiaheng Song'
-  gitee_id: 'MaskerPRC'
+  gitee_id: 'martinissong'
   github_id: 'MaskerPRC'
   repos:
   - https://github.com/openmerlin/space-server-monitor
   - https://github.com/openmerlin/space-server
   - https://github.com/openmerlin/image-build-tool
   - https://github.com/openmerlin/space-k8s-operator
+  - https://gitee.com/modelers/space-server
+  - https://gitee.com/modelers/flexcompute-server
+  - https://gitee.com/modelers/space-k8s-operator
 
 - name: 'Jixiang Li'
   gitee_id: 'G-Sacker'
@@ -849,6 +852,10 @@ users:
     - https://github.com/openmerlin/space-k8s-operator
     - https://github.com/openmerlin/dockerfile
     - https://github.com/openmerlin/openmind-resource-template
+    - https://gitee.com/modelers/space-server
+    - https://gitee.com/modelers/openmind-resource-template
+    - https://gitee.com/modelers/flexcompute-server
+    - https://gitee.com/modelers/flexcompute-sdk
 
 - name: "Ming Cui"
   gitee_id: "mccpr"
@@ -874,6 +881,9 @@ users:
   - https://github.com/openmerlin/image-build-tool
   - https://github.com/openmerlin/space-k8s-operator
   - https://github.com/openmerlin/space-moderation-proxy
+  - https://gitee.com/modelers/space-server
+  - https://gitee.com/modelers/flexcompute-server
+  - https://gitee.com/modelers/space-k8s-operator
 
 - name: 'Yu Liu'
   gitee_id: 'liuyu18801113053'
@@ -904,11 +914,17 @@ users:
   - https://github.com/Open-Infra-Ops/openApiTest
 
 - name: 'Li Wang'
-  gitee_id: 'wl'
+  gitee_id: 'Potabk'
   github_id: 'Potabk'
   repos:
     - https://github.com/cosdt/npu-support-helper
     - https://github.com/openmerlin/space-server
+    - https://gitee.com/modelers/space-server
+    - https://gitee.com/modelers/flexcompute-server
+    - https://gitee.com/modelers/space-k8s-operator
+    - https://gitee.com/modelers/flexcompute-sdk
+
+
 
 - name: 'Ziqi Hong'
   gitee_id: 'candyhong'
@@ -973,7 +989,7 @@ users:
   - https://gitee.com/modelers/git-access
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
-  
+
 - name: 'Yan Zhao'
   gitee_id: 'zy960'
   github_id: 'ssignik'
@@ -999,6 +1015,9 @@ users:
   - https://github.com/opensourceways/datastat-server
   - https://github.com/opensourceways/EasySoftwareService
   - https://gitee.com/opensourceway/EaseSearch
+  - https://github.com/opensourceway/EasySoftwareInput
+  - https://github.com/opensourceway/EasySearch
+  - https://github.com/opensourceway/EasySearch-Import
 
 - name: 'Runze Hou'
   gitee_id: 'MaoMao19970922'
@@ -1031,10 +1050,19 @@ users:
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
 
+
 - name: 'Zhihang Deng'
   gitee_id: 'zhihang161013'
   github_id: 'zhihang161013'
   repos:
   - https://github.com/zhihang161013/opea-openeuler
-  - https://gitee.com/openEuler/openeuler-docker-images
+  - https://gitee.com/openeuler/openeuler-docker-images
   - https://gitee.com/openeuler/eulerpublisher
+
+- name: 'Jiahao Chen'
+  gitee_id: 'jiahaochen666'
+  github_id: 'jiahaochen666'
+  repos:
+  - https://gitee.com/mindspore/mindspore
+  - https://github.com/mindspore-lab/mindocr
+
